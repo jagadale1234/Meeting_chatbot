@@ -34,8 +34,8 @@ This project allows users to upload a `.wav` meeting audio file and interactivel
 
 ```bash
 # Clone this repo
-git clone https://github.com/yourusername/transcript-qa-chat.git
-cd transcript-qa-chat
+git clone https://github.com/jagadale1234/Meeting_chatbot.git
+cd Meeting_chatbot
 
 # (Recommended) Create and activate virtual environment
 conda create -n transcript-qa python=3.10 -y
