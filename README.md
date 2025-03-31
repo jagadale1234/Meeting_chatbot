@@ -19,7 +19,7 @@ This project allows users to upload a `.wav` meeting audio file and interactivel
 
 ---
 
-##Tech Stack
+## Tech Stack
 
 - [Streamlit](https://streamlit.io/) – Frontend UI
 - [OpenAI API (GPT-4o)](https://platform.openai.com/)
@@ -46,14 +46,14 @@ pip install -r requirements.txt
 ```
 
 ---
-##API Keys:
+## API Keys:
 - Requires OPEN AI Api key
 - Hugging Face Api key
 You can upload both of them directly on the UI and ask it to save so you won't need to do it again.
 
 ---
 
-##Usage
+## Usage
 
 ```bash
 streamlit run lang.py
