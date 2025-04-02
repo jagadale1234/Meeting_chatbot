@@ -19,7 +19,7 @@ from langchain.schema import Document as LangDoc
 
 st.set_page_config(page_title="Transcript QA Chat", layout="centered")
 
-transcript_dir = "/scratch/mir58sab/large_files/tmp"
+transcript_dir = "./tmp"
 os.makedirs(transcript_dir, exist_ok=True)
 
 api_key_path = os.path.expanduser("~/.openai_api_key.txt")
