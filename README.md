@@ -58,3 +58,8 @@ You can upload both of them directly on the UI and ask it to save so you won't n
 ```bash
 streamlit run lang.py
 ```
+
+##PyPi Package (CLI Usage)
+For pip installation of this project please visit:
+https://pypi.org/project/meetscribe/
+
